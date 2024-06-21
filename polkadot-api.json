@@ -1,0 +1,10 @@
+{
+  "wnd": {
+    "chain": "westend2",
+    "metadata": "wnd.scale"
+  },
+  "wndAssethub": {
+    "chain": "westend2_asset_hub",
+    "metadata": "wndAssethub.scale"
+  }
+}

@@ -13,8 +13,8 @@ import { useRouter } from 'next/navigation'
 import Link from 'next/link'
 
 const navigation = [
-  { name: 'Dashboard', href: '/dashboard', current: true },
-  { name: 'Page #1', href: '#', current: false },
+  { name: 'Dashboard', href: '/dashboard', current: false },
+  { name: 'Page #1', href: '/1', current: true },
   { name: 'Page #2', href: '#', current: false },
 ]
 
